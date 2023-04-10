@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anurag404OpenSourceRules
-- 👀 I’m interested in Software Development and AI
+- 👀 I’m interested in Software Development and ML
 - 🌱 I’m currently learning C++, DSA, Development
 - 💞️ I’m looking to collaborate on anything I can help with
 - 📫 How to reach me? Just email me at: anuragrajcs2025@gmail.com
