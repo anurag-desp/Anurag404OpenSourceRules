@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anurag404OpenSourceRules
 - 👀 I’m interested in Software Development and ML
-- 🌱 I’m currently learning C++, DSA, Development
+- 🌱 I’m currently learning bash scripting, Java Script, Python, DSA, Development, and Machine Learning
 - 💞️ I’m looking to collaborate on anything I can help with
 - 📫 How to reach me? Just email me at: anuragrajcs2025@gmail.com
 
